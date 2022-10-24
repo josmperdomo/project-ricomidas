@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Cabin", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.navbar-brand {
+  font-family: "Lobster", cursive;
+  font-size: 39px;
+  text-align: left;
+}
+
+.carousel-indicators {
+  top: 105%;
+}
+
+.nav-link {
+  font-size: 19px;
+}
+
+.img-fluid {
+  width: 482px;
+  height: 384px;
+}
+
+.carousel-indicators li {
+  background-color: #373a3c;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+}
+
+.letras {
+  font-size: 40px;
+  color: #373a3c;
+}
+
+.container-fluid {
+  color: #373a3c;
+  font-size: 44px;
+  text-align: center;
+}
+
+.container-fluid.contenidos {
+  background-color: #dc3545;
+  height: 534px;
+  padding-top: 70px;
+}
+
+.escrito {
+  font-size: 50px;
+}
+
+.border {
+  border-color: cornsilk;
+  color: aliceblue;
+}
+
+.pie {
+  background-color: #373a3c;
+  height: 150px;
+  padding-top: 25px;
+}
+
+.copy {
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+  left: 30px;
+  padding-bottom: 10px;
+  margin-bottom: 0;
+}
+
+.btn {
+  margin-bottom: 20px;
+}
+
+.ricon {
+  margin-left: 10px;
+  font-size: 30px;
+}
